@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-*We follow the same code of conduct as the Kubernete project*
+*We follow the same code of conduct as the Kubernetes project*
 
 ## Our Pledge
 
