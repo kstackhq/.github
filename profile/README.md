@@ -25,4 +25,4 @@
 
 ## :exclamation: Rules
 
-- [Code of conduct](https://github.com/ksackhq/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Code of conduct](https://github.com/kstackhq/.github/blob/main/CODE_OF_CONDUCT.md)
